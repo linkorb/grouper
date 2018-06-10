@@ -1,0 +1,20 @@
+{
+  "name": "linkorb/grouper",
+  "description": "Group arrays by one or more keys",
+  "homepage": "https://github.com/linkorb/grouper",
+  "keywords": ["grouper", "linkorb"],
+  "type": "library",
+  "authors": [
+    {
+      "name": "LinkORB Engineering",
+      "email": "engineering@linkorb.com",
+      "role": "Development"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Grouper\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
